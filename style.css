@@ -46,7 +46,7 @@ body{
 }
 
 .navbar-right a {
-    text-decoration: none;
+    text-decoration: underline;
     color: rgba(255, 255, 255, 0.8);
     font-weight: 500;
 }
@@ -54,7 +54,7 @@ body{
 .navbar-right a:hover {
     text-decoration:underline;
     color: white;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .about-me {
